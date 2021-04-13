@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeonsooyoung
+- 👋 Hi, I’m Daon
 - 👀 I’m interested in FrontEnd Skills
 - 🌱 I’m currently learning vanila JS
 - 💞️ I want to modularize my work
